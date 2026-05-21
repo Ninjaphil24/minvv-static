@@ -1,0 +1,7 @@
+{
+  "apiBaseUrl": "https://imperial-him-led-suffering.trycloudflare.com",
+  "runtimeBackendBaseUrl": "https://imperial-him-led-suffering.trycloudflare.com",
+  "generatedAt": "2026-05-07T18:13:53+03:00",
+  "target": "http://minvv.test",
+  "kind": "cloudflare-quick-tunnel"
+}
